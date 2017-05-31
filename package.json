@@ -33,5 +33,28 @@
   },
   "dependencies": {
     "grunt-build-control": "^0.1.3"
-  }
+  },
+  "description": "technology-icons is a webfont which includes many technology icons.",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marketcloud/technology-icons.git"
+  },
+  "keywords": [
+    "technology",
+    "icons"
+  ],
+  "author": "websiddu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marketcloud/technology-icons/issues"
+  },
+  "homepage": "https://github.com/Marketcloud/technology-icons#readme"
 }
